@@ -1,5 +1,4 @@
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
 title: Amruta Jadhav
-subtitle: site tagline that appears below site title in masthead
 description: Graduate Student in the Information Management Program at University of Washington, Seattle. I am specializing in data science.
 logo: /images/ppic.JPG
