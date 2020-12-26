@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "Data Science"
+    url: /
+
+  - title: "Programming"
+    url: /programming/
+
+  - title: "Resume"
+    url: /assets/resume.pdf
+
+  - title: "About"
+    url: /aboutme/

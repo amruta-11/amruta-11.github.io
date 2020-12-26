@@ -18,22 +18,75 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# Title & other website details
+locale: "en-US"
+title: Amruta Jadhav
+subtitle: #
+email: amruta11@uw.edu
+description: "Data Science and Programming Projects"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+url: "https://amruta-11.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  amruta-11
+
+# Skin color
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Author details
+author:
+  name     : "Amruta Jadhav"
+  avatar   : "images/ppic.JPG"
+  bio      : "Graduate Student at the University of Washington, specializing in data science."
+  location : "Seattle, USA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:amruta11@uw.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/amruta-11"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/amruta11/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/amruta_11"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+include: ["_pages"]
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      author_profile: true
+      layout: single
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
