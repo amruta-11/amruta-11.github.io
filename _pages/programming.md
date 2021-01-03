@@ -33,8 +33,8 @@ gallery:
     title: "Adding new image"
 ---
 ### React Web Development
-In this project I create a end to end web application. Firstly, I defined the MongoDB schemas and set up read and write to it through [Mongoose](https://mongoosejs.com/). After that, created the backend REST APIs using JavaScript. Developed the frontend using JavaScript, React, HTML & 
-CSS and deployed it on Heroku.
+In this project I created an end to end web application similar to instagram. Firstly, I defined the MongoDB schemas and set up read and write to it through [Mongoose](https://mongoosejs.com/). After that, I created the backend REST APIs using JavaScript and NodeJS. Later, I developed the frontend using JavaScript, React, HTML & 
+CSS. Finally, I deployed the complete web app on Heroku.
 {: .text-justify}
 <a href="https://drive.google.com/file/d/1F1ePuwZno8WfCbv70cj1GvwiqhHsRovI/view" class=".btn .btn--primary .btn--small">Demo Link</a>  
 
