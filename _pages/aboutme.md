@@ -7,14 +7,13 @@ header:
   overlay_image: /images/overlay.jpg
 ---
 
-Hi! I am Amruta and Welcome to my website. I am currently a graduate student in the Information Management Program at University of Washington Seattle with specialization in Data Science. This website is my personal blog to keep track of my projects related to data science and programming.  
+Hi! Welcome to my website. My name is Amruta, and I am a graduate student in the Information Management Program at the University of Washington, Seattle. I am specializing in Data Science and Business Intelligence. This website is my personal blog to keep track of my projects related to data science and programming.  
   
-I am actively looking for summer internship oppurtunities where I can leverage my **data analysis, visualization and machine learning** skills to generate valuable insights from the data and help companies deliver best possible products and services.
+I am actively looking for summer internship opportunities where I can leverage my data analysis, visualization, and machine learning skills to generate valuable insights from the data and help companies deliver the best possible products and services
 
 Feel free to [reach out](mailto:amruta11@uw.edu) to me if you think I might be a good fit, simply would like to connect or engage in conversation related to the data science field.
 
 <!-- #### **Background**
-
 I have completed my undergrad in civil egineering from India. After completing my undergrad studies, I took up a job as an engineer at an aluminum formwork (a temporary mold in which concrete is poured and formed) designing firm. I worked there for one and a half years. All of this time, I designed the formwork using computer-aided design (CAD) software. I recall, even during my undergrad, I spent a significant amount of my time drawing building plans and carrying out design analysis using computer software. I’ve always found technology to be intriguing and was astonished by the advances it has led in the construction field. -->
 
 <!-- #### Summary of Skills
