@@ -5,6 +5,7 @@ permalink: /aboutme/
 header:
   overlay_color: "#000"
   overlay_image: /images/overlay.jpg
+  og_image: /images/overlay.jpg
 ---
 
 Hi! Welcome to my website. My name is Amruta, and I am a graduate student in the Information Management Program at the University of Washington, Seattle. I am specializing in Data Science and Business Intelligence. This website is my personal blog to showcase my projects related to data science and programming.  

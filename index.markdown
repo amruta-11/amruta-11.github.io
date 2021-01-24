@@ -5,6 +5,7 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_image: /images/overlay.jpg
+  og_image: /images/overlay.jpg
 
 # Holiday Sales
 feature_row1:
