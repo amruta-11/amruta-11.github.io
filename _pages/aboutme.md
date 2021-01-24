@@ -7,7 +7,7 @@ header:
   overlay_image: /images/overlay.jpg
 ---
 
-Hi! Welcome to my website. My name is Amruta, and I am a graduate student in the Information Management Program at the University of Washington, Seattle. I am specializing in Data Science and Business Intelligence. This website is my personal blog to keep track of my projects related to data science and programming.  
+Hi! Welcome to my website. My name is Amruta, and I am a graduate student in the Information Management Program at the University of Washington, Seattle. I am specializing in Data Science and Business Intelligence. This website is my personal blog to showcase my projects related to data science and programming.  
   
 I am actively looking for summer internship opportunities where I can leverage my data analysis, visualization, and machine learning skills to generate valuable insights from the data and help companies deliver the best possible products and services
 
