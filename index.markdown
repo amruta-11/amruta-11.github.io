@@ -1,5 +1,5 @@
 ---
-title:  "Data science Projects"
+title:  "Data Science Projects"
 classes: wide
 # permalink: /datascience/
 header:

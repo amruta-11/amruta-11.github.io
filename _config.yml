@@ -35,7 +35,7 @@ minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "
 author:
   name     : "Amruta Jadhav"
   avatar   : "images/ppic.JPG"
-  bio      : "Graduate Student at the University of Washington, specializing in data science."
+  bio      : "Graduate Student at the University of Washington, specializing in data science and business intelligence."
   location : "Seattle, USA"
   links:
     - label: "Email"
