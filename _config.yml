@@ -59,6 +59,8 @@ plugins:
 
 include: ["_pages"]
 
+og_image: "images/overlay.jpg"
+
 defaults:
   - scope:
       path: ""
