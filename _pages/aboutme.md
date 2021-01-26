@@ -2,7 +2,6 @@
 title:  "About Me..."
 classes: wide
 permalink: /aboutme/
-author_profile: true
 header:
   overlay_color: "#000"
   overlay_image: /images/overlay.jpg

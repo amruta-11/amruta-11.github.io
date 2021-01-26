@@ -65,6 +65,7 @@ defaults:
   - scope:
       path: ""
     values:
+      author_profile: true
       layout: single
 
 
