@@ -1,5 +1,5 @@
 ---
-title:  "Web Development Projects"
+title:  "Web Development"
 classes: wide
 permalink: /programming/
 header:
