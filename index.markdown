@@ -7,7 +7,8 @@ header:
   overlay_image: /images/overlay.jpg
   og_image: /images/overlay.jpg
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: ' 
+  '
 # Feature Row 1
 feature_row1:
 #University bookstore db
@@ -27,7 +28,7 @@ feature_row1:
     btn_class: "btn--primary"
     btn_label: "View project"
 # Netflix
-  - image_path: images/netflix.png
+  - image_path: images/netflix.PNG
     title: "Netflix and Big data"
     excerpt: "
     Studied how Netflix leverages big data to drive success."
@@ -89,6 +90,7 @@ feature_row2:
 #     btn_class: "btn--primary"
 #     btn_label: "View project"
 ---
+{% include feature_row id="intro" type="center" %}
 {% include feature_row id = "feature_row1" %}
 {% include feature_row id = "feature_row2" %}
 
